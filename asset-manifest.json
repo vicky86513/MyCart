@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MyCart/static/css/main.fe076c1a.chunk.css",
+    "main.js": "/MyCart/static/js/main.64df08a2.chunk.js",
+    "main.js.map": "/MyCart/static/js/main.64df08a2.chunk.js.map",
+    "runtime-main.js": "/MyCart/static/js/runtime-main.5d1cca30.js",
+    "runtime-main.js.map": "/MyCart/static/js/runtime-main.5d1cca30.js.map",
+    "static/js/2.4bda600d.chunk.js": "/MyCart/static/js/2.4bda600d.chunk.js",
+    "static/js/2.4bda600d.chunk.js.map": "/MyCart/static/js/2.4bda600d.chunk.js.map",
+    "index.html": "/MyCart/index.html",
+    "static/css/main.fe076c1a.chunk.css.map": "/MyCart/static/css/main.fe076c1a.chunk.css.map",
+    "static/js/2.4bda600d.chunk.js.LICENSE.txt": "/MyCart/static/js/2.4bda600d.chunk.js.LICENSE.txt",
+    "static/media/banner.362962ea.gif": "/MyCart/static/media/banner.362962ea.gif",
+    "static/media/carts.aff6dc0d.gif": "/MyCart/static/media/carts.aff6dc0d.gif",
+    "static/media/loading.5def56e3.gif": "/MyCart/static/media/loading.5def56e3.gif",
+    "static/media/logo.a8d05a09.gif": "/MyCart/static/media/logo.a8d05a09.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d1cca30.js",
+    "static/js/2.4bda600d.chunk.js",
+    "static/css/main.fe076c1a.chunk.css",
+    "static/js/main.64df08a2.chunk.js"
+  ]
+}
