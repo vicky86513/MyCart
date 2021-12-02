@@ -13,7 +13,6 @@ function List() {
 
     let res = await fetch("https://demo7242716.mockable.io/products");
     let data = await res.json();
-    console.log(data);
     setData(data.products);
   }, []);
 
