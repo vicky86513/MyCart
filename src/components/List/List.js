@@ -11,7 +11,7 @@ function List() {
     //     .then(res => res.json())
     //     .then(data => setData(data.products))
 
-    let res = await fetch("https://fakestoreapi.com/products");
+    let res = await fetch("https://demo7242716.mockable.io/products");
     let data = await res.json();
     setData(data.products);
   }, []);
